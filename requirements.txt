@@ -122,3 +122,8 @@ webcolors==24.8.0
 webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
+pandas==2.0.3
+scipy==1.11.1
+streamlit==1.25.0
+altair==5.0.1
+plotly==5.15.0
